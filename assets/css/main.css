@@ -1779,6 +1779,14 @@ section,
   background-color: #cc6e00 !important;
 }
 
+.btn-group:hover{
+  background-color: #6c41bc !important;
+}
+
+.btn-photography:hover{
+  background-color: #792032 !important;
+}
+
 
 
 @media (max-width: 768px){
