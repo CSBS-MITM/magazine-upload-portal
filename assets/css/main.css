@@ -1425,7 +1425,7 @@ section,
 # Pricing Section
 --------------------------------------------------------------*/
 .pricing .pricing-item {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 96%);
+  /* background-color: color-mix(in srgb, var(--accent-color), transparent 96%); */
   padding: 40px 40px;
   height: 100%;
   border-radius: 15px;
@@ -1757,6 +1757,29 @@ section,
 .about-section p{
   font-size: 1.3rem !important;
 }
+
+/* Hover effects */
+.btn-tech:hover {
+  background-color: #143175 !important;
+}
+.btn-essay:hover {
+  background-color: #3a0066 !important;
+}
+
+.btn-poetry:hover {
+  background-color: #660000 !important;
+}
+.btn-event:hover {
+  background-color: #145214 !important;
+}
+.btn-sports:hover {
+  background-color: #cc6e00 !important;
+}
+.btn-art:hover {
+  background-color: #1c1c1c !important;
+}
+
+
 
 @media (max-width: 768px){
   .sitename{
