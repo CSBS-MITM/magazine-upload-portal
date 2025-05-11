@@ -1796,6 +1796,9 @@ section,
 
   .about-section p{
     font-size: 1.1rem !important;
+    margin: auto !important;
+    text-align: justify !important;
+    padding: 15px;
   }
 
   .about-section p strong{
