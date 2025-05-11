@@ -1796,13 +1796,17 @@ section,
 
   .about-section p{
     font-size: 1.1rem !important;
-    margin: auto !important;
     text-align: justify !important;
     padding: 15px;
   }
 
   .about-section p strong{
     font-size: 1rem !important;
+    text-align: center !important;
+  }
+
+  .portal-closing-message{
+    text-align: center !important;
   }
 
   .upload-section{
